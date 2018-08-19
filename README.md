@@ -1,6 +1,7 @@
 # LesaraProductAPI
 
-For my API I took as a basis my (no-framework-skeleton)[https://github.com/dykyi-roman/no-framework-skeleton]
+For my API I took as a basis my [no-framework-skeleton](https://github.com/dykyi-roman/no-framework-skeleton).
+
 This is code is not for copy-paste and use. I tried to show how to organize code which will be a separation to layer.
 
 API has a two enterpoint:
