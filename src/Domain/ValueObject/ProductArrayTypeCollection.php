@@ -15,10 +15,12 @@ final class ProductArrayTypeCollection extends ArrayCollection
      * @param $element
      * @return bool
      */
-    public function add($element)
+    public function add($element): bool
     {
         if ($element instanceof Product) {
             return parent::add($element);
         }
+
+        return true;
     }
 }

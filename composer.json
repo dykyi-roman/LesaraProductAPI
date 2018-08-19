@@ -35,7 +35,8 @@
     "fzaninotto/faker": "^1.7",
     "symfony/var-dumper": "^4.0",
     "squizlabs/php_codesniffer": "3.*",
-    "phpunit/phpunit": "^7.2"
+    "phpunit/phpunit": "^7.2",
+    "mikey179/vfsStream": "^1.6"
   },
   "autoload": {
     "psr-4": {
