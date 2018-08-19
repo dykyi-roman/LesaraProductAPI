@@ -4,7 +4,7 @@ For my API I took as a basis my [no-framework-skeleton](https://github.com/dykyi
 
 This is code is not for copy-paste and use. I tried to show how to organize code which will be a separation to layer.
 
-API has a two enterpoint:
+API has a two action:
 
 - /product/create, which takes product inf and places corresponding product
 
