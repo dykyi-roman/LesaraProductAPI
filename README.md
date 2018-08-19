@@ -14,7 +14,8 @@ API has a two action:
 * Add swagger documentation
 
 ## Test coverage
- * PhpUnit
+ * Unit test
+ * Functional test
  
 ## Code Style 
  * Phan
